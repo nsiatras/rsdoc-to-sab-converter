@@ -1,7 +1,6 @@
 .rsdoc to .sab Converter
 ------
-<b>This software works only with DesignSpark Mechanical v2.0.</b>
-Later DesignSpark versions unfortunately encrypts the .rsdoc file and the conversion fails.
+<b>Notice: This software works only with DesignSpark Mechanical v2.0.</b> Later DesignSpark versions unfortunately encrypts the .rsdoc file and the conversion fails.
 
 
 A very simple tool to convert <b>DesignSpark Mechanical</b> .rsdoc files into Standard <b>ACIS Binary (SAB)</b> files.<br>
